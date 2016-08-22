@@ -1,4 +1,3 @@
-layout_spectrum: 0.033635713858529925
 typography_spectrum: 0.40206825360655785
 color:
   brandStrength: 0.03986251354217529
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: Al borde del camino
+layout_spectrum: 0.033635713858529925
+name: Al borde del Camino
+title: descando digital productivo
