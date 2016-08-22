@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9328197229187936
+  saturation: 0.9328197
   brandStrength: 0.8104953332804143
-  rhythmicContrast: 0.7009568093344569
+  lightness: 0.02449223
   brandColors:
     - '#334D5C'
     - '#45B29D'
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
-  lightness: 0.1328739416785538
+  rhythmicContrast: 0.7009568
 typography_spectrum: 0.1057347
 description: descanso digital productivo
 navigation:
