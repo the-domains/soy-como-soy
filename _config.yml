@@ -16,5 +16,8 @@ navigation:
   - name: Mandala Digital
     url: 'http://www.mandaladigital.pe'
     type: external
+  - name: Al borde del camino es…
+    id: 70f50f7a-963f-42d9-8cea-fd513d2524de
+    type: content
 title: Al borde del Camino
 description: descanso digital productivo
