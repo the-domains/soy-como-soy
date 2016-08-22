@@ -1,8 +1,19 @@
-typography_spectrum: 0.6339384708553553
+title: Al borde del Camino
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.8104953332804143
-  lightness: 0.13287394167855382
   saturation: 0.9328197229187936
+  brandStrength: 0.8104953332804143
   rhythmicContrast: 0.7009568093344569
   brandColors:
     - '#334D5C'
@@ -10,8 +21,9 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
-layout_spectrum: 0.6935878898948431
-name: Al borde del Camino
+  lightness: 0.1328739416785538
+typography_spectrum: 0.1057347
+description: descanso digital productivo
 navigation:
   - name: Mandala Digital
     url: 'http://www.mandaladigital.pe'
@@ -19,5 +31,5 @@ navigation:
   - name: Al borde del camino es…
     id: 70f50f7a-963f-42d9-8cea-fd513d2524de
     type: content
-title: Al borde del Camino
-description: descanso digital productivo
+layout_spectrum: 0.6935878898948431
+name: Al borde del Camino
