@@ -1,16 +1,16 @@
-typography_spectrum: 0.40206825360655785
+layout_spectrum: 0.6935878898948431
+typography_spectrum: 0.6339384708553553
 color:
-  brandStrength: 0.03986251354217529
-  lightness: 0.7135261581279337
-  saturation: 0.7086814695503563
-  rhythmicContrast: 0.6822651233524084
+  brandStrength: 0.8104953332804143
+  lightness: 0.13287394167855382
+  saturation: 0.9328197229187936
+  rhythmicContrast: 0.7009568093344569
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.033635713858529925
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 name: Al borde del Camino
 title: Al borde del Camino
 description: descanso digital productivo
