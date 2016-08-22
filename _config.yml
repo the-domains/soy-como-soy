@@ -12,17 +12,17 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.9328197
+  saturation: 0.750896
   brandStrength: 0.8104953332804143
-  lightness: 0.02449223
+  lightness: 0.5800478
   brandColors:
     - '#334D5C'
     - '#45B29D'
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
-  rhythmicContrast: 0.7009568
-typography_spectrum: 0.1057347
+  rhythmicContrast: 0.4510155
+typography_spectrum: 0.05913975
 description: descanso digital productivo
 navigation:
   - name: Mandala Digital
@@ -31,5 +31,5 @@ navigation:
   - name: Al borde del camino es…
     id: 70f50f7a-963f-42d9-8cea-fd513d2524de
     type: content
-layout_spectrum: 0.6935878898948431
+layout_spectrum: 1
 name: Al borde del Camino
