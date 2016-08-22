@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-22T08:02:15.221Z'
+datePublished: '2016-08-22T08:03:27.368Z'
 author: []
 via: {}
-dateModified: '2016-08-22T08:02:02.768Z'
+dateModified: '2016-08-22T08:03:27.273Z'
 title: Al borde del camino es…
 publisher: {}
 description: Mirar todo desde una perspectiva diferente.
-starred: false
 sourcePath: _posts/2016-08-22-al-borde-del-camino-es.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
