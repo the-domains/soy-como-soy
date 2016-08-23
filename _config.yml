@@ -1,4 +1,3 @@
-layout_spectrum: 0.5286688809283078
 typography_spectrum: 0.8316198526881635
 color:
   brandStrength: 0.5902256
@@ -11,14 +10,15 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+layout_spectrum: 0.5286688809283078
 name: Al borde del Camino
 navigation:
-  - name: Mandala Digital
-    url: 'http://www.mandaladigital.pe'
-    type: external
   - name: Sobre el Autor
     id: a6604437-4794-4e2a-8f0b-f5ba3a81e420
     type: content
+  - name: Mandala Digital
+    url: 'http://www.mandaladigital.pe'
+    type: external
 collections:
   - index:
       paginate: true
