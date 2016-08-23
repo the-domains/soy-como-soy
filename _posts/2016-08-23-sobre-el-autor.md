@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-23T06:57:42.643Z'
+datePublished: '2016-08-23T06:58:35.004Z'
 sourcePath: _posts/2016-08-23-sobre-el-autor.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T06:57:41.779Z'
+dateModified: '2016-08-23T06:58:33.976Z'
 title: Sobre el Autor
 publisher: {}
 description: >-
