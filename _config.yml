@@ -1,14 +1,35 @@
-layout_spectrum: 0.033635713858529925
-typography_spectrum: 0.40206825360655785
+layout_spectrum: 0.5701754
+description: descanso digital productivo
+name: Al borde del Camino
+title: Al borde del Camino
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+navigation:
+  - url: 'http://www.mandaladigital.pe'
+    name: Mandala Digital
+    type: external
+  - id: 70f50f7a-963f-42d9-8cea-fd513d2524de
+    name: Al borde del camino es…
+    type: content
 color:
-  brandStrength: 0.03986251354217529
-  lightness: 0.7135261581279337
-  saturation: 0.7086814695503563
-  rhythmicContrast: 0.6822651233524084
+  brandStrength: 0.5902256
+  lightness: 0.5800478
+  saturation: 0.750896
+  rhythmicContrast: 0.4510155
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: Soy como soy
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+typography_spectrum: 0.05913975
