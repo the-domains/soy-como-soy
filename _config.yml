@@ -16,7 +16,7 @@ navigation:
   - name: Sobre el Autor
     id: a6604437-4794-4e2a-8f0b-f5ba3a81e420
     type: content
-  - name: Mandala Digital
+  - name: Mi Agencia Digital
     url: 'http://www.mandaladigital.pe'
     type: external
 collections:
