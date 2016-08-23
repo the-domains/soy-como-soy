@@ -6,18 +6,17 @@ description: >-
   un MBA por concluir. Como buen géminis, del otro lado de la moneda, habita la
   guitarra, la poesía y el canto que junto a mi jogging matutino, la compañía de
   mi hijo y el amor de mi novia, completan una vida no exenta de desafíos .
-dateModified: '2016-08-23T06:00:27.786Z'
-datePublished: '2016-08-23T06:01:52.460Z'
+dateModified: '2016-08-23T06:02:16.612Z'
+datePublished: '2016-08-23T06:02:17.138Z'
 title: Sobre el Autor
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-sobre-el-autor.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: sobre-el-autor/index.html
+_type: Blurb
 
 ---
 # Sobre el Autor
