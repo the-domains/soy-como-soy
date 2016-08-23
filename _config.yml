@@ -1,4 +1,5 @@
-typography_spectrum: 0.870865794364363
+layout_spectrum: 0.5286688809283078
+typography_spectrum: 0.8316198526881635
 color:
   brandStrength: 0.5902256
   lightness: 0.5800478
@@ -10,7 +11,6 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
-layout_spectrum: 0.5770832046400756
 name: Al borde del Camino
 navigation:
   - name: Mandala Digital
